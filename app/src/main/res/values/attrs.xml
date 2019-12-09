@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="outerCircleColor" format="color"/>
+        <attr name="size" format="float"/>
+        <attr name="innerCircleColor" format="color"/>
+        <attr name="innerCircleSize" format="float"/>
+        <attr name="ticksColor" format="color"/>
+    </declare-styleable>
+</resources>
